@@ -1,9 +1,0 @@
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Debug\Lottery.exe.config
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Debug\Lottery.exe
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Debug\Lottery.pdb
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.exe
-c:\users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.pdb
-C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
