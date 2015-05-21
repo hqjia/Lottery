@@ -1,0 +1,8 @@
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Release\Lottery.exe.config
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Release\Lottery.exe
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\bin\Release\Lottery.pdb
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Release\Lottery.Form1.resources
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Release\Lottery.Properties.Resources.resources
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Release\Lottery.csproj.GenerateResource.Cache
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Release\Lottery.exe
+C:\Users\hqjia\documents\visual studio 2013\Projects\Lottery\Lottery\obj\Release\Lottery.pdb
